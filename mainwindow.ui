@@ -190,6 +190,25 @@ font: 10pt &quot;Arial&quot;;</string>
     <property name="lineWidth">
      <number>1</number>
     </property>
+    <widget class="QFrame" name="frame_3">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>291</width>
+       <height>20</height>
+      </rect>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::Shape::HLine</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Shadow::Sunken</enum>
+     </property>
+     <property name="lineWidth">
+      <number>1</number>
+     </property>
+    </widget>
    </widget>
    <widget class="QLabel" name="Titulo_4">
     <property name="geometry">
