@@ -25,6 +25,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         ${PROJECT_SOURCES}
         img.qrc
         perfil.h perfil.cpp perfil.ui
+        login.h login.cpp login.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET c APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
